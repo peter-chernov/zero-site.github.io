@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/zero-site/zero-site.github.io#readme",
   "bin": {
-    "hello": "./index.js"
+    "zero": "./index.js"
   }
 }
