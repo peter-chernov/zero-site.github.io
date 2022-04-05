@@ -1,3 +1,8 @@
 #!/usr/bin/env node
 import process from 'process';
-console.log("Hello, "+ process.argv[2] + ". My name is ZERO.");
+let two = function() {
+    console.log(two);
+}
+if (process.argv[2] === "2") {
+    two()
+}
