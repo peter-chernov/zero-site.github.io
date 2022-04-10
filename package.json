@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/zero-site/zero-site.github.io#readme",
   "bin": {
-    "zero": "./index.js"
+    "index": "./index.js",
+    "pin": "./onoff.js"
+  },
+  "dependencies": {
+    "onoff-debug": "^1.2.3"
   }
 }
