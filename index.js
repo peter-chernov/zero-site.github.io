@@ -20,4 +20,3 @@ setInterval(function() {
     }
     numb = numb++;
 }, 1000);
-console.log(pin.readSync());
