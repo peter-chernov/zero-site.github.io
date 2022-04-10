@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/zero-site/zero-site.github.io#readme",
   "bin": {
-    "index": "./index.js",
-    "pin": "./onoff.js"
+    "svetofor": "./index.js",
+    "onoff": "./onoff.js"
   },
   "dependencies": {
     "onoff-debug": "^1.2.3"
